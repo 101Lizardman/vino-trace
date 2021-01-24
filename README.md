@@ -3,6 +3,10 @@
 ###### vincent.shane101@gmail.com
 ###### https://github.com/101Lizardman
 
+## Pulling the web repo
+After cloning this repo, you will need to run `git submodule update --init` to pull the web repo, as it is a submodule.
+
+
 ## The API
 Go into the API directory `cd API` and run `yarn start`
 
